@@ -1,0 +1,8 @@
+.bg-gradient{
+    background:linear-gradient(90deg,#44ff9a -.55%,#44b0ff 22.86%,#8b44ff 48.36%,#ff6644 73.33%,#ebff70 99.34%);
+    opacity: 30%;
+}
+
+.icon{
+    font-size: 26px;
+}

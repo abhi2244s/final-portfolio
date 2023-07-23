@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Poppins";
+}
+.img-round{
+  height:300px;
+  border-radius: 12px;
+}
+.icon-html{
+  color:red;
+  font-size: 50px;
+}
+
+.icon-css{
+  color:blue;
+  font-size: 50px;
+}
+
+
+.icon-js{
+   width:50px;
+}
+.icon-jss{
+  width:55px;
+}
+ 
+.icon-react{
+ color:#B2EDFD;
+  font-size: 50px;
+}
+
+.icon-git{
+
+   font-size: 50px;
+ }
+ .icons{
+  font-size :30px;
+  color:white;
+ }
